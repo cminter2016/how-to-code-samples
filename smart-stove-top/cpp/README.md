@@ -1,4 +1,4 @@
-﻿# Smart stove top in C++
+﻿# Smart Stove Top in C++
 
 ## Introduction
 
