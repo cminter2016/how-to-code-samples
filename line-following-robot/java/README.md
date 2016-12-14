@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This Line following robot application is part of a series of how-to Intel® Internet of Things (IoT) code sample exercises using the Intel® IoT Developer Kit, Intel® Edison development platform, cloud platforms, APIs, and other technologies.
+This line following robot application is part of a series of how-to Intel® Internet of Things (IoT) code sample exercises using the Intel® IoT Developer Kit, Intel® Edison development platform, cloud platforms, APIs, and other technologies.
 
 From this exercise, developers will learn how to:<br>
 - Connect the Intel® Edison development platform, a computing platform designed for prototyping and producing IoT and wearable computing products.<br>
 - Interface with the Intel® Edison platform IO and sensor repository using MRAA and UPM from the Intel® IoT Developer Kit, a complete hardware and software solution to help developers explore the IoT and implement innovative projects.<br>
 - Run this code sample in Intel® System Studio IoT Edition. Intel® System Studio IoT Edition lets you create and test applications on Intel-based IoT platforms.<br>
-- Store line detection data using Azure Redis Cache\* from Microsoft Azure\*, Redis Store\* from IBM Bluemix\*, or ElastiCache\* using Redis\* from Amazon Web Services\* (AWS), different cloud services for connecting IoT solutions including data analysis, machine learning, and a variety of productivity tools to simplify the process of connecting your sensors to the cloud and getting your IoT project up and running quickly.
+- Store line detection data using Azure Redis Cache\* from Microsoft Azure\*, Redis Store\* from IBM Bluemix\*, or ElastiCache\* using Redis\* from Amazon Web Services\ (AWS)*, different cloud services for connecting IoT solutions including data analysis, machine learning, and a variety of productivity tools to simplify the process of connecting your sensors to the cloud and getting your IoT project up and running quickly.
 
 ## What it is
 
@@ -34,7 +34,7 @@ Grove* Robotics Kit containing:
 ## Software requirements
 
 1. Intel® System Studio IoT Edition
-2. Microsoft Azure\*, IBM Bluemix\*, or AWS account (optional)
+2. Microsoft Azure\*, IBM Bluemix\*, or AWS* account (optional)
 
 ### How to set up
 
@@ -46,7 +46,7 @@ To download download a .zip file, in your web browser, go to <a href="https://gi
 
 ## Adding the program to Intel® System Studio IoT Edition
 
- ** The following screenshots are from the Alarm clock sample, however the technique for adding the program is the same, just with different source files and jars.
+ ** The following screenshots are from the alarm clock sample, however the technique for adding the program is the same, just with different source files and jars.
 
 Open Intel® System Studio IoT Edition. It will start by asking for a workspace directory; choose one and then click OK.
 
