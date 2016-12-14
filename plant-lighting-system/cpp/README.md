@@ -1,4 +1,4 @@
-﻿# Plant lighting system in C++
+﻿# Plant Lighting System in C++
 
 ## Introduction
 
