@@ -1,4 +1,4 @@
-# Field data reporter in Java*
+# Field Data Reporter in Java*
 
 ## Introduction
 
