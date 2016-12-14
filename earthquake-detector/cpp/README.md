@@ -1,4 +1,4 @@
-﻿# Earthquake detector in C++
+﻿# Earthquake Detector in C++
 
 ## Introduction
 
@@ -62,7 +62,7 @@ This sample is already one of the IoT examples included in Intel® System Studio
 ![](./../../images/cpp/select-os.png)
 6. The next tab will ask for connection name and target name. If you do not know these click **Search Target**.<br>
 ![](./../../images/cpp/search-target.png)
-7. Select your Edison from the dropdown list. Select **OK**.<br>
+7. Select your Intel Edison from the dropdown list. Select **OK**.<br>
 ![](./../../images/cpp/click-how-to-code-samples.png)
 8. Your connection name and target name should be filled in. Select **Finish**.<br>
 ![](./../../images/cpp/finish-target.png)
