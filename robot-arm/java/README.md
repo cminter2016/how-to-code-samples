@@ -1,4 +1,4 @@
-# Robot arm in Java*
+# Robot Arm in Java*
 
 ## Introduction
 
