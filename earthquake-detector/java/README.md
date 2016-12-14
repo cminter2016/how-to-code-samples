@@ -1,4 +1,4 @@
-# Earthquake detector in Java*
+# Earthquake Detector in Java*
 
 ## Introduction
 
